@@ -1,2 +1,2 @@
 # bookbot
-boot.dev toy
+BookBot is my first project!
